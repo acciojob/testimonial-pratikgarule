@@ -9,6 +9,9 @@
 	background-color:white;
 	border:1px solid black;
 }
+p.author{
+	font-style: italic;
+}
 .author{
 	text-align:right;
 }
